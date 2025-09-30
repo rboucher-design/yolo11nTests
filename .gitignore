@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/src/__pycache__
+/src/annotated_output - Copy.jpg
+/src/annotated_output.jpg
