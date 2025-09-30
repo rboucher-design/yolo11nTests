@@ -1,0 +1,4 @@
+runpod
+sahi
+ultralytics
+pillow
